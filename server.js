@@ -1,10 +1,14 @@
-const jsonServer = require('json-server');
+const jsonServer = require("json-server");
 const server = jsonServer.create();
-const router = jsonServer.router('db.json');
-const middlewares = jsonServer.defaults();
+const router = jsonServer.router("db.json");
+const middlewares = jsonServer.defaults({
+  static: false, // 這邊禁止使用 public 靜態資料夾
+});
 
 server.use(middlewares);
 server.use(router);
-server.listen(process.env.PORT || 3001, () => {
-  console.log('JSON Server is running');
+
+const port = process.env.PORT || 3000;
+server.listen(port, () => {
+  console.log(`JSON Server is running on port ${port}`);
 });
