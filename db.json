@@ -1,0 +1,1021 @@
+{
+    "users": [
+      { "id": 1, "name": "Alice", "email": "alice@example.com" },
+      { "id": 2, "name": "Bob", "email": "bob@example.com" }
+    ],
+    "products": [
+      { "id": 1, "name": "Laptop", "price": 1299.99 },
+      { "id": 2, "name": "Phone", "price": 699.99 }
+    ],
+    "orders": [
+      { "id": 1, "userId": 1, "productId": 2, "quantity": 1 },
+      { "id": 2, "userId": 2, "productId": 1, "quantity": 2 }
+    ],
+    "logout": {},
+    "sellers": [],
+    "buyers": [
+      {
+        "id": 1,
+        "profile_theme": "green",
+        "user_name": "user001",
+        "promotion_text": "Embracing the Entire ASEAN Region: The Most Extensive Medical Distribution Network",
+        "company_name": "EP Plus Group",
+        "company_logo": "/example_logo.png",
+        "company_logo_small": "/example_logo_small.png",
+        "company_description": "EP Plus is a regional healthcare corporation based in Malaysia, with a robust foothold in Malaysia, Singapore, Indonesia, Philippines and expanding across Southeast Asia.\n\n\nSince our inception in 1997, we are driven by our mission to make innovative European medical possibilities – pharmaceuticals, medical devices and equipment accessible to patients throughout Southeast Asia.",
+        "company_location": "Taiwan",
+        "company_established_year": "2001",
+        "company_overview": "/company-overview.jpg",
+        "business_annual_revenue": "5000000.00",
+        "business_capital_amount": "1000000.00",
+        "number_of_employees": 120,
+        "company_website": "https://alphamaterials.com",
+        "business_attributes": ["Distributor / Agent"],
+        "business_nature": ["Pharmaceutical Distribution"],
+        "industry_classification": "先進材料",
+        "partnership_looking_for": ["OEM/ODM", "Product Distribution Franchise"],
+        "purchasing_requirement": ["Gastroenterology", "Neurology / CNS", "Respiratory", "Gynecology", "Endocrinology / Diabetes", "Reproductive Health", "Aesthetic / Dermatology"],
+        "required_certification": "ISO 9001",
+        "market_channel_overview": "全球OEM廠商",
+        "company_strengths": "研發創新速度快",
+        "estimated_procurement_amount": "200000.00",
+        "brands_in_distribution": "AlphaFiber",
+        "time_zone": "UTC+08:00 (Asia/Taipei)",
+        "languages": ["English", "Chinese"]
+      },
+      {
+        "id": 2,
+        "profile_theme": "blue",
+        "user_name": "user002",
+        "promotion_text": "Embracing the Entire ASEAN Region: The Most Extensive Medical Distribution Network",
+        "company_name": "EP Plus Group",
+        "company_logo": "/example_logo.png",
+        "company_logo_small": "/example_logo_small.png",
+        "company_description": "EP Plus is a regional healthcare corporation based in Malaysia, with a robust foothold in Malaysia, Singapore, Indonesia, Philippines and expanding across Southeast Asia.\n\n\nSince our inception in 1997, we are driven by our mission to make innovative European medical possibilities – pharmaceuticals, medical devices and equipment accessible to patients throughout Southeast Asia.",
+        "company_location": "Taiwan",
+        "company_established_year": "2001",
+        "company_overview": "/company-overview.jpg",
+        "business_annual_revenue": "5000000.00",
+        "business_capital_amount": "1000000.00",
+        "number_of_employees": 120,
+        "company_website": "https://alphamaterials.com",
+        "business_attributes": ["Distributor / Agent"],
+        "business_nature": ["Pharmaceutical Distribution"],
+        "industry_classification": "先進材料",
+        "partnership_looking_for": ["OEM/ODM", "Product Distribution Franchise"],
+        "purchasing_requirement": ["Gastroenterology", "Neurology / CNS", "Respiratory", "Gynecology", "Endocrinology / Diabetes", "Reproductive Health", "Aesthetic / Dermatology"],
+        "required_certification": "ISO 9001",
+        "market_channel_overview": "全球OEM廠商",
+        "company_strengths": "研發創新速度快",
+        "estimated_procurement_amount": "200000.00",
+        "brands_in_distribution": "AlphaFiber",
+        "time_zone": "UTC+08:00 (Asia/Taipei)",
+        "languages": ["English", "Chinese"]
+      },
+      {
+        "id": 3,
+        "profile_theme": "red",
+        "user_name": "user003",
+        "promotion_text": "Embracing the Entire ASEAN Region: The Most Extensive Medical Distribution Network",
+        "company_name": "EP Plus Group",
+        "company_logo": "/example_logo.png",
+        "company_logo_small": "/example_logo_small.png",
+        "company_description": "EP Plus is a regional healthcare corporation based in Malaysia, with a robust foothold in Malaysia, Singapore, Indonesia, Philippines and expanding across Southeast Asia.\n\n\nSince our inception in 1997, we are driven by our mission to make innovative European medical possibilities – pharmaceuticals, medical devices and equipment accessible to patients throughout Southeast Asia.",
+        "company_location": "Taiwan",
+        "company_established_year": "2001",
+        "company_overview": "/company-overview.jpg",
+        "business_annual_revenue": "5000000.00",
+        "business_capital_amount": "1000000.00",
+        "number_of_employees": 120,
+        "company_website": "https://alphamaterials.com",
+        "business_attributes": ["Distributor / Agent"],
+        "business_nature": ["Pharmaceutical Distribution"],
+        "industry_classification": "先進材料",
+        "partnership_looking_for": ["OEM/ODM", "Product Distribution Franchise"],
+        "purchasing_requirement": ["Gastroenterology", "Neurology / CNS", "Respiratory", "Gynecology", "Endocrinology / Diabetes", "Reproductive Health", "Aesthetic / Dermatology"],
+        "required_certification": "ISO 9001",
+        "market_channel_overview": "全球OEM廠商",
+        "company_strengths": "研發創新速度快",
+        "estimated_procurement_amount": "200000.00",
+        "brands_in_distribution": "AlphaFiber",
+        "time_zone": "UTC+08:00 (Asia/Taipei)",
+        "languages": ["English", "Chinese"]
+      },
+      {
+        "id": 4,
+        "profile_theme": "green",
+        "user_name": "user001",
+        "promotion_text": "Embracing the Entire ASEAN Region: The Most Extensive Medical Distribution Network",
+        "company_name": "EP Plus Group",
+        "company_logo": "/example_logo.png",
+        "company_logo_small": "/example_logo_small.png",
+        "company_description": "EP Plus is a regional healthcare corporation based in Malaysia, with a robust foothold in Malaysia, Singapore, Indonesia, Philippines and expanding across Southeast Asia.\n\n\nSince our inception in 1997, we are driven by our mission to make innovative European medical possibilities – pharmaceuticals, medical devices and equipment accessible to patients throughout Southeast Asia.",
+        "company_location": "Taiwan",
+        "company_established_year": "2001",
+        "company_overview": "/company-overview.jpg",
+        "business_annual_revenue": "5000000.00",
+        "business_capital_amount": "1000000.00",
+        "number_of_employees": 120,
+        "company_website": "https://alphamaterials.com",
+        "business_attributes": ["Distributor / Agent"],
+        "business_nature": ["Pharmaceutical Distribution"],
+        "industry_classification": "先進材料",
+        "partnership_looking_for": ["OEM/ODM", "Product Distribution Franchise"],
+        "purchasing_requirement": ["Gastroenterology", "Neurology / CNS", "Respiratory", "Gynecology", "Endocrinology / Diabetes", "Reproductive Health", "Aesthetic / Dermatology"],
+        "required_certification": "ISO 9001",
+        "market_channel_overview": "全球OEM廠商",
+        "company_strengths": "研發創新速度快",
+        "estimated_procurement_amount": "200000.00",
+        "brands_in_distribution": "AlphaFiber",
+        "time_zone": "UTC+08:00 (Asia/Taipei)",
+        "languages": ["English", "Chinese"]
+      },
+      {
+        "id": 5,
+        "profile_theme": "blue",
+        "user_name": "user002",
+        "promotion_text": "Embracing the Entire ASEAN Region: The Most Extensive Medical Distribution Network",
+        "company_name": "EP Plus Group",
+        "company_logo": "/example_logo.png",
+        "company_logo_small": "/example_logo_small.png",
+        "company_description": "EP Plus is a regional healthcare corporation based in Malaysia, with a robust foothold in Malaysia, Singapore, Indonesia, Philippines and expanding across Southeast Asia.\n\n\nSince our inception in 1997, we are driven by our mission to make innovative European medical possibilities – pharmaceuticals, medical devices and equipment accessible to patients throughout Southeast Asia.",
+        "company_location": "Taiwan",
+        "company_established_year": "2001",
+        "company_overview": "/company-overview.jpg",
+        "business_annual_revenue": "5000000.00",
+        "business_capital_amount": "1000000.00",
+        "number_of_employees": 120,
+        "company_website": "https://alphamaterials.com",
+        "business_attributes": ["Distributor / Agent"],
+        "business_nature": ["Pharmaceutical Distribution"],
+        "industry_classification": "先進材料",
+        "partnership_looking_for": ["OEM/ODM", "Product Distribution Franchise"],
+        "purchasing_requirement": ["Gastroenterology", "Neurology / CNS", "Respiratory", "Gynecology", "Endocrinology / Diabetes", "Reproductive Health", "Aesthetic / Dermatology"],
+        "required_certification": "ISO 9001",
+        "market_channel_overview": "全球OEM廠商",
+        "company_strengths": "研發創新速度快",
+        "estimated_procurement_amount": "200000.00",
+        "brands_in_distribution": "AlphaFiber",
+        "time_zone": "UTC+08:00 (Asia/Taipei)",
+        "languages": ["English", "Chinese"]
+      },
+      {
+        "id": 6,
+        "profile_theme": "red",
+        "user_name": "user003",
+        "promotion_text": "Embracing the Entire ASEAN Region: The Most Extensive Medical Distribution Network",
+        "company_name": "EP Plus Group",
+        "company_logo": "/example_logo.png",
+        "company_logo_small": "/example_logo_small.png",
+        "company_description": "EP Plus is a regional healthcare corporation based in Malaysia, with a robust foothold in Malaysia, Singapore, Indonesia, Philippines and expanding across Southeast Asia.\n\n\nSince our inception in 1997, we are driven by our mission to make innovative European medical possibilities – pharmaceuticals, medical devices and equipment accessible to patients throughout Southeast Asia.",
+        "company_location": "Taiwan",
+        "company_established_year": "2001",
+        "company_overview": "/company-overview.jpg",
+        "business_annual_revenue": "5000000.00",
+        "business_capital_amount": "1000000.00",
+        "number_of_employees": 120,
+        "company_website": "https://alphamaterials.com",
+        "business_attributes": ["Distributor / Agent"],
+        "business_nature": ["Pharmaceutical Distribution"],
+        "industry_classification": "先進材料",
+        "partnership_looking_for": ["OEM/ODM", "Product Distribution Franchise"],
+        "purchasing_requirement": ["Gastroenterology", "Neurology / CNS", "Respiratory", "Gynecology", "Endocrinology / Diabetes", "Reproductive Health", "Aesthetic / Dermatology"],
+        "required_certification": "ISO 9001",
+        "market_channel_overview": "全球OEM廠商",
+        "company_strengths": "研發創新速度快",
+        "estimated_procurement_amount": "200000.00",
+        "brands_in_distribution": "AlphaFiber",
+        "time_zone": "UTC+08:00 (Asia/Taipei)",
+        "languages": ["English", "Chinese"]
+      },
+      {
+        "id": 7,
+        "profile_theme": "green",
+        "user_name": "user001",
+        "promotion_text": "Embracing the Entire ASEAN Region: The Most Extensive Medical Distribution Network",
+        "company_name": "EP Plus Group",
+        "company_logo": "/example_logo.png",
+        "company_logo_small": "/example_logo_small.png",
+        "company_description": "EP Plus is a regional healthcare corporation based in Malaysia, with a robust foothold in Malaysia, Singapore, Indonesia, Philippines and expanding across Southeast Asia.\n\n\nSince our inception in 1997, we are driven by our mission to make innovative European medical possibilities – pharmaceuticals, medical devices and equipment accessible to patients throughout Southeast Asia.",
+        "company_location": "Taiwan",
+        "company_established_year": "2001",
+        "company_overview": "/company-overview.jpg",
+        "business_annual_revenue": "5000000.00",
+        "business_capital_amount": "1000000.00",
+        "number_of_employees": 120,
+        "company_website": "https://alphamaterials.com",
+        "business_attributes": ["Distributor / Agent"],
+        "business_nature": ["Pharmaceutical Distribution"],
+        "industry_classification": "先進材料",
+        "partnership_looking_for": ["OEM/ODM", "Product Distribution Franchise"],
+        "purchasing_requirement": ["Gastroenterology", "Neurology / CNS", "Respiratory", "Gynecology", "Endocrinology / Diabetes", "Reproductive Health", "Aesthetic / Dermatology"],
+        "required_certification": "ISO 9001",
+        "market_channel_overview": "全球OEM廠商",
+        "company_strengths": "研發創新速度快",
+        "estimated_procurement_amount": "200000.00",
+        "brands_in_distribution": "AlphaFiber",
+        "time_zone": "UTC+08:00 (Asia/Taipei)",
+        "languages": ["English", "Chinese"]
+      },
+      {
+        "id": 8,
+        "profile_theme": "blue",
+        "user_name": "user002",
+        "promotion_text": "Embracing the Entire ASEAN Region: The Most Extensive Medical Distribution Network",
+        "company_name": "EP Plus Group",
+        "company_logo": "/example_logo.png",
+        "company_logo_small": "/example_logo_small.png",
+        "company_description": "EP Plus is a regional healthcare corporation based in Malaysia, with a robust foothold in Malaysia, Singapore, Indonesia, Philippines and expanding across Southeast Asia.\n\n\nSince our inception in 1997, we are driven by our mission to make innovative European medical possibilities – pharmaceuticals, medical devices and equipment accessible to patients throughout Southeast Asia.",
+        "company_location": "Taiwan",
+        "company_established_year": "2001",
+        "company_overview": "/company-overview.jpg",
+        "business_annual_revenue": "5000000.00",
+        "business_capital_amount": "1000000.00",
+        "number_of_employees": 120,
+        "company_website": "https://alphamaterials.com",
+        "business_attributes": ["Distributor / Agent"],
+        "business_nature": ["Pharmaceutical Distribution"],
+        "industry_classification": "先進材料",
+        "partnership_looking_for": ["OEM/ODM", "Product Distribution Franchise"],
+        "purchasing_requirement": ["Gastroenterology", "Neurology / CNS", "Respiratory", "Gynecology", "Endocrinology / Diabetes", "Reproductive Health", "Aesthetic / Dermatology"],
+        "required_certification": "ISO 9001",
+        "market_channel_overview": "全球OEM廠商",
+        "company_strengths": "研發創新速度快",
+        "estimated_procurement_amount": "200000.00",
+        "brands_in_distribution": "AlphaFiber",
+        "time_zone": "UTC+08:00 (Asia/Taipei)",
+        "languages": ["English", "Chinese"]
+      },
+      {
+        "id": 9,
+        "profile_theme": "red",
+        "user_name": "user003",
+        "promotion_text": "Embracing the Entire ASEAN Region: The Most Extensive Medical Distribution Network",
+        "company_name": "EP Plus Group",
+        "company_logo": "/example_logo.png",
+        "company_logo_small": "/example_logo_small.png",
+        "company_description": "EP Plus is a regional healthcare corporation based in Malaysia, with a robust foothold in Malaysia, Singapore, Indonesia, Philippines and expanding across Southeast Asia.\n\n\nSince our inception in 1997, we are driven by our mission to make innovative European medical possibilities – pharmaceuticals, medical devices and equipment accessible to patients throughout Southeast Asia.",
+        "company_location": "Taiwan",
+        "company_established_year": "2001",
+        "company_overview": "/company-overview.jpg",
+        "business_annual_revenue": "5000000.00",
+        "business_capital_amount": "1000000.00",
+        "number_of_employees": 120,
+        "company_website": "https://alphamaterials.com",
+        "business_attributes": ["Distributor / Agent"],
+        "business_nature": ["Pharmaceutical Distribution"],
+        "industry_classification": "先進材料",
+        "partnership_looking_for": ["OEM/ODM", "Product Distribution Franchise"],
+        "purchasing_requirement": ["Gastroenterology", "Neurology / CNS", "Respiratory", "Gynecology", "Endocrinology / Diabetes", "Reproductive Health", "Aesthetic / Dermatology"],
+        "required_certification": "ISO 9001",
+        "market_channel_overview": "全球OEM廠商",
+        "company_strengths": "研發創新速度快",
+        "estimated_procurement_amount": "200000.00",
+        "brands_in_distribution": "AlphaFiber",
+        "time_zone": "UTC+08:00 (Asia/Taipei)",
+        "languages": ["English", "Chinese"]
+      },
+      {
+        "id": 10,
+        "profile_theme": "green",
+        "user_name": "user001",
+        "promotion_text": "Embracing the Entire ASEAN Region: The Most Extensive Medical Distribution Network",
+        "company_name": "EP Plus Group",
+        "company_logo": "/example_logo.png",
+        "company_logo_small": "/example_logo_small.png",
+        "company_description": "EP Plus is a regional healthcare corporation based in Malaysia, with a robust foothold in Malaysia, Singapore, Indonesia, Philippines and expanding across Southeast Asia.\n\n\nSince our inception in 1997, we are driven by our mission to make innovative European medical possibilities – pharmaceuticals, medical devices and equipment accessible to patients throughout Southeast Asia.",
+        "company_location": "Taiwan",
+        "company_established_year": "2001",
+        "company_overview": "/company-overview.jpg",
+        "business_annual_revenue": "5000000.00",
+        "business_capital_amount": "1000000.00",
+        "number_of_employees": 120,
+        "company_website": "https://alphamaterials.com",
+        "business_attributes": ["Distributor / Agent"],
+        "business_nature": ["Pharmaceutical Distribution"],
+        "industry_classification": "先進材料",
+        "partnership_looking_for": ["OEM/ODM", "Product Distribution Franchise"],
+        "purchasing_requirement": ["Gastroenterology", "Neurology / CNS", "Respiratory", "Gynecology", "Endocrinology / Diabetes", "Reproductive Health", "Aesthetic / Dermatology"],
+        "required_certification": "ISO 9001",
+        "market_channel_overview": "全球OEM廠商",
+        "company_strengths": "研發創新速度快",
+        "estimated_procurement_amount": "200000.00",
+        "brands_in_distribution": "AlphaFiber",
+        "time_zone": "UTC+08:00 (Asia/Taipei)",
+        "languages": ["English", "Chinese"]
+      },
+      {
+        "id": 11,
+        "profile_theme": "blue",
+        "user_name": "user002",
+        "promotion_text": "Embracing the Entire ASEAN Region: The Most Extensive Medical Distribution Network",
+        "company_name": "EP Plus Group",
+        "company_logo": "/example_logo.png",
+        "company_logo_small": "/example_logo_small.png",
+        "company_description": "EP Plus is a regional healthcare corporation based in Malaysia, with a robust foothold in Malaysia, Singapore, Indonesia, Philippines and expanding across Southeast Asia.\n\n\nSince our inception in 1997, we are driven by our mission to make innovative European medical possibilities – pharmaceuticals, medical devices and equipment accessible to patients throughout Southeast Asia.",
+        "company_location": "Taiwan",
+        "company_established_year": "2001",
+        "company_overview": "/company-overview.jpg",
+        "business_annual_revenue": "5000000.00",
+        "business_capital_amount": "1000000.00",
+        "number_of_employees": 120,
+        "company_website": "https://alphamaterials.com",
+        "business_attributes": ["Distributor / Agent"],
+        "business_nature": ["Pharmaceutical Distribution"],
+        "industry_classification": "先進材料",
+        "partnership_looking_for": ["OEM/ODM", "Product Distribution Franchise"],
+        "purchasing_requirement": ["Gastroenterology", "Neurology / CNS", "Respiratory", "Gynecology", "Endocrinology / Diabetes", "Reproductive Health", "Aesthetic / Dermatology"],
+        "required_certification": "ISO 9001",
+        "market_channel_overview": "全球OEM廠商",
+        "company_strengths": "研發創新速度快",
+        "estimated_procurement_amount": "200000.00",
+        "brands_in_distribution": "AlphaFiber",
+        "time_zone": "UTC+08:00 (Asia/Taipei)",
+        "languages": ["English", "Chinese"]
+      },
+      {
+        "id": 12,
+        "profile_theme": "red",
+        "user_name": "user003",
+        "promotion_text": "Embracing the Entire ASEAN Region: The Most Extensive Medical Distribution Network",
+        "company_name": "EP Plus Group",
+        "company_logo": "/example_logo.png",
+        "company_logo_small": "/example_logo_small.png",
+        "company_description": "EP Plus is a regional healthcare corporation based in Malaysia, with a robust foothold in Malaysia, Singapore, Indonesia, Philippines and expanding across Southeast Asia.\n\n\nSince our inception in 1997, we are driven by our mission to make innovative European medical possibilities – pharmaceuticals, medical devices and equipment accessible to patients throughout Southeast Asia.",
+        "company_location": "Taiwan",
+        "company_established_year": "2001",
+        "company_overview": "/company-overview.jpg",
+        "business_annual_revenue": "5000000.00",
+        "business_capital_amount": "1000000.00",
+        "number_of_employees": 120,
+        "company_website": "https://alphamaterials.com",
+        "business_attributes": ["Distributor / Agent"],
+        "business_nature": ["Pharmaceutical Distribution"],
+        "industry_classification": "先進材料",
+        "partnership_looking_for": ["OEM/ODM", "Product Distribution Franchise"],
+        "purchasing_requirement": ["Gastroenterology", "Neurology / CNS", "Respiratory", "Gynecology", "Endocrinology / Diabetes", "Reproductive Health", "Aesthetic / Dermatology"],
+        "required_certification": "ISO 9001",
+        "market_channel_overview": "全球OEM廠商",
+        "company_strengths": "研發創新速度快",
+        "estimated_procurement_amount": "200000.00",
+        "brands_in_distribution": "AlphaFiber",
+        "time_zone": "UTC+08:00 (Asia/Taipei)",
+        "languages": ["English", "Chinese"]
+      }
+    ],
+    "buyers_contact": [
+      {
+        "id": 1,
+        "buyer_name": "Eric Khor",
+        "buyer_job_title": "Vice President",
+        "brief_introduction": "超過10年材料領域經驗",
+        "buyer_contact_location": "Malaysia, Singapore, Indonesia, Philippines",
+        "buyer_photo": "/buyer_photo.png"
+      },
+      {
+        "id": 2,
+        "buyer_name": "Eric Khor",
+        "buyer_job_title": "Vice President",
+        "brief_introduction": "超過10年材料領域經驗",
+        "buyer_contact_location": "Malaysia, Singapore, Indonesia, Philippines",
+        "buyer_photo": "/buyer_photo.png"
+      },
+      {
+        "id": 3,
+        "buyer_name": "Eric Khor",
+        "buyer_job_title": "Vice President",
+        "brief_introduction": "超過10年材料領域經驗",
+        "buyer_contact_location": "Malaysia, Singapore, Indonesia, Philippines",
+        "buyer_photo": "/buyer_photo.png"
+      }
+    ],
+    "filter_options": {
+      "purchasing_requirement": {
+        "703": "Smart Hospital & IT Solutions",
+        "705": "Diagnostics & Laboratory",
+        "706": "Digital Health",
+        "707": "Biopharmaceuticals",
+        "721": "Medical Devices",
+        "722": "Health & Wellness",
+        "725": "Long Term Care & Rehab"
+      },
+      "partnership_looking_for": {
+        "710": "CDMO / CMO",
+        "711": "OEM / ODM",
+        "712": "Co-Development",
+        "713": "Technology Licensing"
+      },
+      "region_covered": {
+        "732": "Singapore",
+        "733": "Indonesia"
+      }
+    },
+    "recommended": [
+      {
+        "id": 0,
+        "position": "top",
+        "theme": "a",
+        "image": "/product1.png",
+        "name": "Microbiology Consumables"
+      },
+      {
+        "id": 1,
+        "position": "top",
+        "theme": "b",
+        "image": "/product2.png",
+        "name": "Diagnostic Imaging Equipment"
+      },
+      {
+        "id": 2,
+        "position": "bottom",
+        "theme": "a",
+        "image": "/product3.png",
+        "name": "Da Vinci Surgical Instruments"
+      },
+      {
+        "id": 3,
+        "position": "center",
+        "theme": "c",
+        "name": "2025\nIBMI Caner Medicines\nOnline Live Conference",
+        "date": "Aug 19, 19:00-21:00"
+      }
+    ],
+    "conference": {
+      "title": "2024 MEDTEX Summit Asia",
+      "subtitle": "Leading innovation, investing in the future",
+      "date": "2024.12.03(Tue)",
+      "location": "3F, Ballroom, Le Méridien Taipei",
+      "organizers": ["Everbright Biofund", "RBMP"],
+      "supporters": ["National Science and Technology Council (NSTC)", "National Development Council (NDC)"],
+      "themes": ["Advanced AI applications", "Regenerative medicine", "Immunotherapies", "Breakthrough drug development", "Innovative medical devices"],
+      "logo": "https://expo.taiwan-healthcare.org//data/tmp/20230928/20230928epf7fo.svg",
+      "expo_logo": "https://expo.taiwan-healthcare.org//data/tmp/20241104/202411047ytqkg.png",
+      "background_image": "https://expo.taiwan-healthcare.org//data/tmp/20230928/202309282l9cde.gif"
+    },
+    "speakers": [
+      {
+        "id": 1,
+        "name": "Ettikan Karuppiah",
+        "title": "Director & Technologist, NVIDIA",
+        "photo": "https://expo.taiwan-healthcare.org//data/tmp/20241125/20241125pgynrb.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Keren Priyadarshini",
+        "title": "Healthcare Lead, Microsoft Asia",
+        "photo": "https://expo.taiwan-healthcare.org//data/tmp/20241106/20241106rc6gfu.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Charles Lin",
+        "title": "Principal, illumina Ventures",
+        "photo": "https://expo.taiwan-healthcare.org//data/tmp/20241028/20241028xc4re6.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Robert Mittendorff",
+        "title": "General Partner & Head of Healthcare, B Capital",
+        "photo": "https://expo.taiwan-healthcare.org//data/tmp/20241122/202411228uf8an.jpeg"
+      },
+      {
+        "id": 5,
+        "name": "Ian Chiang",
+        "title": "Partner, Flare Capital Partners",
+        "photo": "https://expo.taiwan-healthcare.org//data/tmp/20241106/20241106lbsh6z.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Nate Chang",
+        "title": "Operating Partner, Playground Global",
+        "photo": "https://expo.taiwan-healthcare.org//data/tmp/20241118/202411180cv8jj.webp"
+      },
+      {
+        "id": 7,
+        "name": "Cheryl Cheng",
+        "title": "Founder, Vive Collective",
+        "photo": "https://expo.taiwan-healthcare.org//data/tmp/20241108/202411082dgc5h.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Zubin Daruwalla",
+        "title": "Asia Pacific Health Industries Leader, PwC Singapore",
+        "photo": "https://expo.taiwan-healthcare.org//data/tmp/20241107/20241107k8bmq6.jpg"
+      }
+    ],
+    "startups": [
+      {
+        "id": 1,
+        "name": "Tempo Therapeutics",
+        "description": "微孔凝膠組織再生全新材料",
+        "presenter": "Westbrook Weaver",
+        "presenter_title": "Founder/CEO",
+        "photo": "https://expo.taiwan-healthcare.org//data/tmp/20241028/202410285ts46s.jpg",
+        "category": "Regenerative Medicine"
+      },
+      {
+        "id": 2,
+        "name": "EyeYon",
+        "description": "人工眼角膜移植新科技！",
+        "presenter": "Nahum Ferera",
+        "presenter_title": "CEO/ Co-Founder",
+        "photo": "https://expo.taiwan-healthcare.org//data/tmp/20241028/20241028xqekka.jpeg",
+        "category": "Regenerative Medicine"
+      },
+      {
+        "id": 3,
+        "name": "EpiBone",
+        "description": "創新脂肪幹細胞製程生成骨移植物",
+        "presenter": "Nina Tandon",
+        "presenter_title": "CEO",
+        "photo": "https://expo.taiwan-healthcare.org//data/tmp/20241028/20241028y81103.jpeg",
+        "category": "Regenerative Medicine"
+      },
+      {
+        "id": 4,
+        "name": "Arbor Biotechnologies",
+        "description": "張鋒團隊 !全球最新高效CRISPR平台",
+        "presenter": "David Cheng",
+        "presenter_title": "CTO",
+        "photo": "https://expo.taiwan-healthcare.org//data/tmp/20241028/202410280h2pfw.jpg",
+        "category": "New Drug Development"
+      },
+      {
+        "id": 5,
+        "name": "ImmuneBridge",
+        "description": "免疫幹細胞擴增技術x精準基因工程",
+        "presenter": "Nina Horowitz",
+        "presenter_title": "CSO",
+        "photo": "https://expo.taiwan-healthcare.org//data/tmp/20241028/20241028r782rx.png",
+        "category": "Immunotherapy・Gene Therapy"
+      },
+      {
+        "id": 6,
+        "name": "Cirsium Biosciences",
+        "description": "獨創植物細胞生產病毒載體技術",
+        "presenter": "Jake Connors",
+        "presenter_title": "CTO/ Co-Founder",
+        "photo": "https://expo.taiwan-healthcare.org//data/tmp/20241028/20241028e18olj.jpg",
+        "category": "Immunotherapy・Gene Therapy"
+      },
+      {
+        "id": 7,
+        "name": "Rejuvenate Bio",
+        "description": "哈佛團隊研發老化疾病基因療法",
+        "presenter": "Daniel Oliver",
+        "presenter_title": "CEO/ Co-Founder",
+        "photo": "https://expo.taiwan-healthcare.org//data/tmp/20241028/20241028n6eq6u.jpg",
+        "category": "Immunotherapy・Gene Therapy"
+      },
+      {
+        "id": 8,
+        "name": "Verlmmune",
+        "description": "抗腫瘤免疫重定向創新療法",
+        "presenter": "Joshua Wang",
+        "presenter_title": "Founder/ CEO",
+        "photo": "https://expo.taiwan-healthcare.org//data/tmp/20241028/20241028pcw926.jpg",
+        "category": "Immunotherapy・Gene Therapy"
+      },
+      {
+        "id": 9,
+        "name": "Coastar Therapeutics",
+        "description": "創新細胞膜包覆大分子藥物技術",
+        "presenter": "Chongyang Luo",
+        "presenter_title": "COO",
+        "photo": "https://expo.taiwan-healthcare.org//data/tmp/20241028/20241028zr44k6.jpg",
+        "category": "New Drug Development"
+      },
+      {
+        "id": 10,
+        "name": "Myrobalan Therapeutics",
+        "description": "促進髓鞘再⽣新型⼝服神經修復藥物",
+        "presenter": "Jing Wang",
+        "presenter_title": "CEO/ Co-Founder",
+        "photo": "https://expo.taiwan-healthcare.org//data/tmp/20241028/2024102820mamy.jpg",
+        "category": "New Drug Development"
+      },
+      {
+        "id": 11,
+        "name": "Rapafusyn Pharmaceuticals",
+        "description": "非降解分子膠FKBP藥物開發平台",
+        "presenter": "Sean Hu",
+        "presenter_title": "CEO",
+        "photo": "https://expo.taiwan-healthcare.org//data/tmp/20241028/20241028hqd7yv.jpg",
+        "category": "New Drug Development"
+      },
+      {
+        "id": 12,
+        "name": "Qritive",
+        "description": "10倍速AI數位病理診斷",
+        "presenter": "Bruno Occhipinti",
+        "presenter_title": "CEO",
+        "photo": "https://expo.taiwan-healthcare.org//data/tmp/20241028/2024102849bl9m.png",
+        "category": "Medical Device・Smart Healthcare"
+      },
+      {
+        "id": 13,
+        "name": "HistoSonics",
+        "description": "非侵入性聲波技術震碎肝臟腫瘤細胞",
+        "presenter": "Josh King",
+        "presenter_title": "Vice President",
+        "photo": "https://expo.taiwan-healthcare.org//data/tmp/20241105/20241105jwz2nv.webp",
+        "category": "Medical Device・Smart Healthcare"
+      },
+      {
+        "id": 14,
+        "name": "Niramai",
+        "description": "以熱成像AI提高25%乳癌篩檢精準度",
+        "presenter": "Vicky Nanda",
+        "presenter_title": "COO",
+        "photo": "https://expo.taiwan-healthcare.org//data/tmp/20241105/202411050pm3e7.jpg",
+        "category": "Medical Device・Smart Healthcare"
+      },
+      {
+        "id": 15,
+        "name": "PRISM BioLab",
+        "description": "以擬肽小分子調控蛋白質交互作用開發新藥",
+        "presenter": "Dai Takehara",
+        "presenter_title": "President & CEO",
+        "photo": "https://expo.taiwan-healthcare.org//data/tmp/20241106/20241106hfai10.jpg",
+        "category": "New Drug Development"
+      },
+      {
+        "id": 16,
+        "name": "SYNCELL",
+        "description": "空間蛋白體學必備利器-可抓式顯微系統",
+        "presenter": "Jung-Chi Liao",
+        "presenter_title": "Founder / CEO",
+        "photo": "https://expo.taiwan-healthcare.org//data/tmp/20241128/20241128joospa.png",
+        "category": "New Drug Development"
+      },
+      {
+        "id": 17,
+        "name": "Pharmosa Biopharm",
+        "description": "長效緩釋之肺部藥物遞送平台",
+        "presenter": "Pei Kan",
+        "presenter_title": "Co-Founder / CEO",
+        "photo": "https://expo.taiwan-healthcare.org//data/tmp/20241128/20241128hh91l3.jpg",
+        "category": "New Drug Development"
+      },
+      {
+        "id": 18,
+        "name": "Cytonus",
+        "description": "以去核幹細胞為載體之精準藥物遞送平台",
+        "presenter": "Remo Moomiaie-Qajar",
+        "presenter_title": "CEO",
+        "photo": "https://expo.taiwan-healthcare.org//data/tmp/20241202/20241202s7kcz8.jpg",
+        "category": "New Drug Development"
+      }
+    ],
+    "schedule": [
+      {
+        "id": 1,
+        "day": "December 3",
+        "events": [
+          {
+            "time": "10:00-10:10",
+            "title": "Opening Remark",
+            "type": "ceremony"
+          },
+          {
+            "time": "10:10-10:50",
+            "title": "AI-Driven Innovations and Opportunities in Drug Discovery",
+            "type": "keynote",
+            "speaker": "Ettikan Karuppiah, Director & Technologist, NVIDIA"
+          },
+          {
+            "time": "10:50-11:30",
+            "title": "Advancing Generative AI in Biomedicine: Next Steps and Opportunities",
+            "type": "keynote",
+            "speaker": "Keren Priyadarshini, Healthcare Lead, Microsoft Asia"
+          },
+          {
+            "time": "11:30-13:00",
+            "title": "Lunch Break",
+            "type": "break"
+          },
+          {
+            "time": "13:00-14:00",
+            "title": "Investing in the Future of Healthcare: Trends and Opportunities in 2025",
+            "type": "fireside_chat",
+            "moderator": "Charles Lin, Principal, illumina Ventures",
+            "panelists": [
+              "Robert Mittendorff, General Partner & Head of Healthcare, B Capital",
+              "Ian Chiang, Partner, Flare Capital Partners",
+              "Nate Chang, Operating Partner, Playground Global",
+              "Cheryl Cheng, Founder, Vive Collective"
+            ]
+          },
+          {
+            "time": "14:00-14:40",
+            "title": "Pitch Session - Regenerative Medicine",
+            "type": "pitch_session",
+            "presenters": [
+              "Tempo Therapeutics｜Westbrook Weaver, Founder & CEO",
+              "EyeYon｜Nahum Ferera, Co-Founder & CEO",
+              "EpiBone｜Nina Tandon, CEO"
+            ]
+          },
+          {
+            "time": "14:40-15:10",
+            "title": "Coffee Break",
+            "type": "break"
+          },
+          {
+            "time": "15:10-16:00",
+            "title": "Pitch Session - Immunotherapy・Gene Therapy",
+            "type": "pitch_session",
+            "presenters": [
+              "ImmuneBridge｜Nina Horowitz, CSO",
+              "Cirsium Biosciences｜Jake Connors, Co-Founder & CTO",
+              "Rejuvenate Bio｜Daniel Oliver, Co-Founder & CEO",
+              "Verlmmune｜Joshua Wang, Founder & CEO"
+            ]
+          },
+          {
+            "time": "16:00-16:40",
+            "title": "Pitch Session - New Drug Development (I)",
+            "type": "pitch_session",
+            "presenters": [
+              "SYNCELL｜Jung-Chi Liao, Founder & CEO",
+              "Pharmosa Biopharm｜Pei Kan, Co-Founder & CEO",
+              "Coastar Therapeutics｜Chongyang Luo, COO"
+            ]
+          },
+          {
+            "time": "16:40-17:30",
+            "title": "Post-Event Networking",
+            "type": "networking"
+          }
+        ]
+      }
+    ],
+    "pastEvents": [
+      {
+        "id": 1,
+        "year": 2024,
+        "image": "https://expo.taiwan-healthcare.org/zh/medtex/2024",
+        "link": "https://expo.taiwan-healthcare.org/zh/medtex/2024"
+      },
+      {
+        "id": 2,
+        "year": 2023,
+        "image": "https://expo.taiwan-healthcare.org/zh/news/0s1o793l55fahub5",
+        "link": "https://expo.taiwan-healthcare.org/zh/news/0s1o793l55fahub5"
+      }
+    ],
+    "registrationPage": {
+      "packages": [
+        {
+          "id": "conference_only",
+          "name": "Startup Forum",
+          "price": "$79", 
+          "description": [
+            "Access to all sessions",
+            "Networking opportunities",
+            "Lunch included"
+          ]
+        },
+        {
+          "id": "conference_and_party",
+          "name": "Startup Forum + Networking Party",
+          "price": "$199",
+          "description": [
+            "Access to all sessions",
+            "Networking opportunities",
+            "Lunch included",
+            "Live music",
+            "Drinks and snacks",
+            "Networking"
+          ]
+        }
+      ],
+      "notes": {
+        "deadline": "Only a limited number of spots are available. Register early to secure your place.",
+        "terms": [
+          "Cancellations and refunds are not accepted for this event.",
+          "In the event of force majeure (e.g., natural disasters), the organizer reserves the right to postpone or cancel the event.",
+          "By registering, you agree to allow the organizer to collect and use your personal information for event-related communication and follow-up notifications."
+        ]
+      }
+    },
+    "companyTypes": [
+      { "value": "startup", "label": "Startup" },
+      { "value": "sme", "label": "Small/Medium Enterprise" },
+      { "value": "listed", "label": "Listed Company" },
+      { "value": "investor", "label": "Investment Institution / VC" },
+      { "value": "academic", "label": "Academic/Research Institution" },
+      { "value": "government", "label": "Government / Association" },
+      { "value": "other", "label": "Other" }
+    ],
+    "startup_teams": [
+      {
+        "id": 1,
+        "name": "Tempo Therapeutics",
+        "logo": "https://expo.taiwan-healthcare.org//data/tmp/20241028/202410285ts46s.jpg",
+        "description": "微孔凝膠組織再生全新材料",
+        "country": "United States",
+        "lead_investors": "Khosla Ventures, MPM Capital",
+        "status": "published",
+        "created_at": "2023-10-15T08:30:00Z",
+        "updated_at": "2024-05-20T14:15:00Z"
+      },
+      {
+        "id": 2,
+        "name": "EyeYon",
+        "logo": "https://expo.taiwan-healthcare.org//data/tmp/20241028/20241028xqekka.jpeg",
+        "description": "人工眼角膜移植新科技！",
+        "country": "Israel",
+        "lead_investors": "TriVentures, BRM Group",
+        "status": "published",
+        "created_at": "2023-11-05T10:45:00Z",
+        "updated_at": "2024-06-10T09:20:00Z"
+      },
+      {
+        "id": 3,
+        "name": "EpiBone",
+        "logo": "https://expo.taiwan-healthcare.org//data/tmp/20241028/20241028y81103.jpeg",
+        "description": "創新脂肪幹細胞製程生成骨移植物",
+        "country": "United States",
+        "lead_investors": "Pier 70 Ventures, SoftBank Vision Fund",
+        "status": "published",
+        "created_at": "2023-09-28T15:20:00Z",
+        "updated_at": "2024-05-15T11:30:00Z"
+      },
+      {
+        "id": 4,
+        "name": "Arbor Biotechnologies",
+        "logo": "https://expo.taiwan-healthcare.org//data/tmp/20241028/202410280h2pfw.jpg",
+        "description": "張鋒團隊！全球最新高效CRISPR平台",
+        "country": "United States",
+        "lead_investors": "Arch Venture Partners, Forestry LLC",
+        "status": "published",
+        "created_at": "2023-12-10T09:15:00Z",
+        "updated_at": "2024-06-05T16:40:00Z"
+      }
+    ],
+    "startup_representatives": [
+      {
+        "id": 1,
+        "team_id": 1,
+        "name": "Westbrook Weaver",
+        "photo": "https://expo.taiwan-healthcare.org//data/tmp/20241028/202410285ts46s.jpg",
+        "title": "Founder/CEO"
+      },
+      {
+        "id": 2,
+        "team_id": 2,
+        "name": "Nahum Ferera",
+        "photo": "https://expo.taiwan-healthcare.org//data/tmp/20241028/20241028xqekka.jpeg",
+        "title": "CEO/Co-Founder"
+      },
+      {
+        "id": 3,
+        "team_id": 3,
+        "name": "Nina Tandon",
+        "photo": "https://expo.taiwan-healthcare.org//data/tmp/20241028/20241028y81103.jpeg",
+        "title": "CEO"
+      },
+      {
+        "id": 4,
+        "team_id": 4,
+        "name": "David Cheng",
+        "photo": "https://expo.taiwan-healthcare.org//data/tmp/20241028/202410280h2pfw.jpg",
+        "title": "CTO"
+      }
+    ],
+    "startup_investments": [
+      {
+        "id": 1,
+        "team_id": 1,
+        "year_founded": 2017,
+        "total_funding": "$45M",
+        "annual_revenue": "$5M",
+        "is_pre_revenue": false,
+        "funding_round": "Series B",
+        "amount_raised": "$30M",
+        "valuation": "$120M",
+        "on_market": "Private"
+      },
+      {
+        "id": 2,
+        "team_id": 2,
+        "year_founded": 2015,
+        "total_funding": "$36M",
+        "annual_revenue": "$2.5M",
+        "is_pre_revenue": false,
+        "funding_round": "Series B",
+        "amount_raised": "$20M",
+        "valuation": "$90M",
+        "on_market": "Private"
+      },
+      {
+        "id": 3,
+        "team_id": 3,
+        "year_founded": 2012,
+        "total_funding": "$56M",
+        "annual_revenue": "$8M",
+        "is_pre_revenue": false,
+        "funding_round": "Series C",
+        "amount_raised": "$35M",
+        "valuation": "$180M",
+        "on_market": "Private"
+      },
+      {
+        "id": 4,
+        "team_id": 4,
+        "year_founded": 2018,
+        "total_funding": "$125M",
+        "annual_revenue": "$0",
+        "is_pre_revenue": true,
+        "funding_round": "Series B",
+        "amount_raised": "$75M",
+        "valuation": "$300M",
+        "on_market": "Private"
+      }
+    ],
+    "startup_details": [
+      {
+        "id": 1,
+        "team_id": 1,
+        "investment_highlights": "市場規模估達100億美元，獨家專利技術能夠顯著加速組織再生過程",
+        "core_technology": "微孔凝膠技術平台能夠模擬細胞外基質結構，優化細胞生長環境",
+        "target_market": "外科手術修復市場，特別是骨科與傷口癒合",
+        "milestones": "預計2025年開始FDA臨床II期試驗，2026年進入歐洲市場"
+      },
+      {
+        "id": 2,
+        "team_id": 2,
+        "investment_highlights": "全球約有5000萬角膜疾病患者，本產品可大幅降低眼角膜移植困難度",
+        "core_technology": "合成角膜材料能夠與人體組織良好結合，降低排斥反應",
+        "target_market": "眼科手術市場，特別是角膜移植領域",
+        "milestones": "已通過歐盟CE認證，正在進行美國FDA審批過程"
+      },
+      {
+        "id": 3,
+        "team_id": 3,
+        "investment_highlights": "骨移植市場每年成長10%以上，技術能夠避免傳統骨移植併發症",
+        "core_technology": "使用病患自體脂肪幹細胞培養客製化骨骼組織，完全避免排斥問題",
+        "target_market": "骨科手術市場，特別是顱顏骨缺損修復領域",
+        "milestones": "已完成FDA I/II期臨床試驗，預計2025年上市"
+      },
+      {
+        "id": 4,
+        "team_id": 4,
+        "investment_highlights": "基因編輯市場規模超過100億美元，技術比現有CRISPR系統精準度高50%",
+        "core_technology": "AI驅動的CRISPR工具發現平台，能夠識別並優化全新的基因編輯酶",
+        "target_market": "基因治療、生物技術研發工具市場",
+        "milestones": "已與三家全球前20大製藥公司簽訂合作研發協議"
+      }
+    ],
+    "startup_products": [
+      {
+        "id": 1,
+        "team_id": 1,
+        "name": "TempoPatch",
+        "category": "device",
+        "stage": "臨床前研究完成，準備進入人體試驗",
+        "certificate_country": "美國"
+      },
+      {
+        "id": 2,
+        "team_id": 1,
+        "name": "TempoMatrix",
+        "category": "device",
+        "stage": "動物試驗階段",
+        "certificate_country": "美國"
+      },
+      {
+        "id": 3,
+        "team_id": 2,
+        "name": "EndoArt",
+        "category": "device",
+        "stage": "已通過CE認證，進入歐洲市場",
+        "certificate_country": "歐盟"
+      },
+      {
+        "id": 4,
+        "team_id": 3,
+        "name": "EB-1 Bone Graft",
+        "category": "device",
+        "stage": "臨床二期試驗",
+        "certificate_country": "美國"
+      },
+      {
+        "id": 5,
+        "team_id": 4,
+        "name": "CRISPR Type V Platform",
+        "category": "service",
+        "stage": "研發階段，已開放給合作夥伴使用",
+        "certificate_country": "N/A"
+      },
+      {
+        "id": 6,
+        "team_id": 4,
+        "name": "Gene-Edit Pro Kit",
+        "category": "device",
+        "stage": "已商業化，供研究使用",
+        "certificate_country": "美國"
+      }
+    ]
+  }
+  
