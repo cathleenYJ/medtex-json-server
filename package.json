@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "npx json-server db.json --port 3002 --no-static --host 0.0.0.0"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
